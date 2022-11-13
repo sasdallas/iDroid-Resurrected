@@ -1,3 +1,5 @@
+### GeoSn0w abadoned this project, I'm going to try to finish it now. I love iDroid and thought it was super interesting!
+### I'm gonna finish the guides first, then move on to file collecting and maybe update Bootlace to work with a new server.
 # iDroid-Resurrected
 The iDroid project was a movement started by iPhoneLinux to port the Linux kernel to the iOS Devices (and they succeeded to some extent) through OpeniBoot, an open source bootloader for iOS. The project has long been abandoned which means it will not receive any new updates from the original authors. 
 
